@@ -1,0 +1,6 @@
+# Wrangler config for an Eleventy-generated static site
+name = "bmgblog"
+pages_build_output_dir = "./_site"
+
+[build]
+command = "npm run build"
